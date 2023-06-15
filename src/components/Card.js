@@ -1,5 +1,4 @@
 import React from "react";
-import "../styles/Card.css";
 
 const Card = ({ image, onClick }) => {
   return (
